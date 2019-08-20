@@ -1,0 +1,3 @@
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[836] == 0 && $game_variables[837] == 0|Need a babysitter!|N<5> will you babysit me tonight?|173|0>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[836] > 0|Babysitting?|Bring your fat tits over, N<5>, I need to use my cock sleeve! I need a babysitter xx|174|188>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[837] > 0|Need a babysitter!|Make sure you get your sexy ass over here, I need a sitter and you're in no position to say no!|175|188>

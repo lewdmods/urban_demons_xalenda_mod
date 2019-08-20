@@ -1,0 +1,1 @@
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[962] > 0|Babysitting|I actually wanted you to stay in tonight. Once \n[3] is out, I figured we could spend the night together...|180|191>

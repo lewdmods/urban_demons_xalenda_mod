@@ -1,0 +1,6 @@
+<choice:$game_switches[12] == true && $game_switches[828] == true && $game_variables[865] == 0|Not so fast!|Not so fast N<13>! You need to bring her to the toilets first! Then I'll delete the picture! xx|154|829>
+<choice:$game_switches[12] == true && $game_switches[828] == true && $game_variables[865] > 0|Double BJ!|Hey sluts, I want both of your lips around my cock! Come to the toilets, now! xxx |154|829>
+<choice:$game_switches[12] == true && $game_variables[864] > 0|Double BJ!|Hey N<13>, bring N<14> to the toilets, time for you two sluts to suck my cock! xxx|155|829>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[866] == 0 && $game_variables[867] == 0|Need a babysitter!|N<13> will you sit for me tonight?|167|0>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[866] > 0|Need a babysitter!|Hey N<13>, come over and "babysit" me tonight. xx|168|186>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[867] > 0|Babysitter!|You're babysitting me tonight, slut. Be here at 7:00, no excuses.|169|186>

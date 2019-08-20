@@ -1,0 +1,3 @@
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[924] == 0 && $game_variables[925] == 0|Need a babysitter!|N<6> will you babysit me tonight?|164|0>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[924] > 0|Babysitter!|Hey N<6>! I'm pretty thirsty for more than just water... wanna come babysit me tonight? xx|165|185>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[925] > 0|Come babysit!|N<6>, bring your loose cunt over to my place tonight for some "babysitting" - your Master commands it!|166|185>

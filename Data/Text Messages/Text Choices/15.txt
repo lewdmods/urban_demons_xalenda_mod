@@ -1,0 +1,7 @@
+<choice:$game_variables[843] > 0 && $game_switches[312] == true|Hiding spot!|Hey N<15>! I'm hiding at the toilets, come hide with me! xxx|152|814>
+
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[844] == 0 && $game_variables[845] == 0|Need a babysitter!|Hey N<15>! My mom is going out tonight to fuck random men for cash. Can you babysit me?|161|0>
+
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[845] > 0|Babysitter|Hey slut! My mom is going out tonight, and you're going to be my babysitter. Remember I have that pic before you answer!|163|184>
+
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[844] > 0|Need a sitter!|Hey cum-dump! Come over and babysit me tonight, I'll give you what you need... xx|162|184>

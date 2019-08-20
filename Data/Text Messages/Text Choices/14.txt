@@ -1,0 +1,3 @@
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[868] == 0 && $game_variables[869] == 0|Need a babysitter!|N<14> will you babysit me tonight?|170|0>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[868] > 0|Need a babysitter!|Would you mind coming over tonight N<14>? I need a tight ass to cum inside of.|171|187>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[869] > 0|Need a babysitter!|Unless you want your son to find out about us, you're babysitting me tonight!|172|187>

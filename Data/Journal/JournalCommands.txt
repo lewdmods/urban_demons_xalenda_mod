@@ -1,0 +1,13 @@
+<entry:1==2|TITLE|Log to show>
+<entry:$game_switches[269] == false && $game_switches[517] == true && $game_switches[271] == false|Babysitting...|Babysitting - Idea>
+<entry:$game_switches[269] == true && $game_switches[271] == false|Babysitting...|Babysitting - FindBabysitter>
+<entry:$game_switches[269] == true && $game_switches[271] == true|Babysitting...|Babysitting - FoundBabysitter>
+<entry:$game_switches[534] == false && $game_switches[754] == true|Peephole...|DIY - Idea>
+<entry:$game_switches[534] == true && $game_switches[752] == false && $game_switches[751] == false|Peephole...|DIY - Tools>
+<entry:$game_switches[534] == true && $game_switches[752] == false && $game_switches[751] == true|Peephole...|DIY - Mom Built>
+<entry:$game_switches[534] == true && $game_switches[752] == true && $game_switches[751] == false|Peephole...|DIY - Sis Built>
+<entry:$game_switches[786] == false && $game_switches[758] == false && $game_party.has_item?($data_items[73]) == false|Computer...|Computer - Broken>
+<entry:$game_switches[786] == false && $game_switches[758] == true && $game_party.has_item?($data_items[73]) == false|Computer...|Computer - Repairer>
+<entry:$game_switches[786] == false && $game_party.has_item?($data_items[73]) == true|Computer...|Computer - New Cord>
+<entry:$game_switches[83] == true && $game_switches[4] == false|PayMeOn...|PayMeOn - Idea>
+<entry:$game_switches[83] == true && $game_switches[4] == true|PayMeOn...|PayMeOn - On-going>

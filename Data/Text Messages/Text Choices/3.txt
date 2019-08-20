@@ -1,0 +1,6 @@
+<choice:$game_switches[789] == false && $game_switches[265] == true && $game_switches[12] == true && $game_variables[773] > 0 && $game_variables[775] == 0|Join me...|N<3> I'm going to go to have a shower! You should join me!|149|789>
+<choice:$game_switches[789] == false && $game_switches[265] == true && $game_switches[12] == true && $game_variables[774] > 0 && $game_variables[776] == 0|Join me...|N<3> I'm going to go to have a shower! You should join me!|149|789>
+<choice:$game_switches[789] == true && $game_switches[265] == true && $game_switches[12] == true && $game_variables[773] > 0 && $game_variables[775] == 0|Because...|I want to spend some time alone with you!|150|790>
+<choice:$game_switches[789] == true && $game_switches[265] == true && $game_switches[12] == true && $game_variables[774] > 0 && $game_variables[776] == 0|You know why!|Come join me for a shower, or I'll show everybody that picture of you masturbating!|151|790>
+<choice:$game_switches[265] == true && $game_switches[12] == true && $game_variables[775] > 0|Shower?|Hey sis, you want to come "shower" with me again?|149|790>
+<choice:$game_switches[265] == true && $game_switches[12] == true && $game_variables[776] > 0|Shower, NOW!|Get your fat tits into the bathroom, slut!|149|790>

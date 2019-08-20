@@ -1,0 +1,99 @@
+2019-02-11 - Version 0.7.1
+
+-    Yard Magic is now fully fleshed out, operating, and *should* be working properly!
+	Control and command your classmates!
+	Watch as they still treat you like shit afterwards!
+	Wonder why the *hell* you sat through all of that for literally no reward!
+		(The reward comes much, MUCH later in the game)
+
+-    Minor bugfixes and tweaks, things that should've been changed long ago that
+	weren't because I'm a derp-face and just ignored it.
+
+-    Walkthroughs are being written, but they're still not set in stone since the game
+	is wonky as hell right now. They'll be put back in here as soon as things wrap
+	up, I *swear*.
+
+
+2019-01-15 - Version 0.7.0
+
+-    Holy crap it's finally here - the game has endings! And a story! PLOT DETAILS!
+	Seriously though, the Prison has been finished, and only requires Peter to
+	obtain 1 Slave to enter and potentially complete the entire thing in one sitting.
+
+-    Various bugs and/or glitches removed
+-    Walkthroughs removed, as they aren't actually worth a damn in this mod
+	They will eventually be put back in, with more detail, once the mod is nearing
+	completion.
+
+
+2018-07-24 - Version 0.5.3
+
+-    Minor bug fixes, map changes and added the Naga Chili back into the game
+        You'll find the Naga Chili in the main hub of the Nexus, works like normal
+-    Ms Amos busts should be back to normal and no longer crash the game
+        Correction: MOST of her busts are fixed (stupid file names...)
+
+
+2018-07-15 - Version 0.5.1 (Temporary Final)
+
+-    Fixing of sewer entrances/exits; not all exits work yet, use at your own risk!
+-    Nexus now gives all powers upon entering complete version 
+	(Persuasion, Invisibility and Total Corruption)
+-    More scenes / dialogues fixed for CORRUPTION path
+-    Babysitting demos available in the bedroom
+        **Use sparingly, they crash the game if used more than once!
+-    General grammar and spelling corrections
+
+
+2018-06-27 - Addition of Sewer Maps and new Babysitting adventures!
+
+-    Implementation of sewers into main game
+-    Nexus added and built into game in place of Underworld
+-    Additional scenes / dialogues depending on your playthrough
+-    Some bug fixes, changes to overall "flow" of the game
+
+Known bugs include a lack of Weekend Afternoon dinner scenes, and inability to do anything of worth 
+inside the sewers - they're still being developed, patience is requested!
+
+Does not have end-game material yet; this can be considered a "semi-final" version until 0.5 is released. Please report any game-breaking bugs in the forums, I'll do my best to get them fixed while working on 0.5.
+
+Removed the Ideas and Endings demo, now that they're being implemented, it seemed silly to have to different versions of the same thing. Stay tuned for the newest addition to Urban Demons - Apathy!
+
+
+2018-06-03 - Updated links for 0.2.1
+
+-    Fixed Fred
+-    Fixed the school yard
+-    Various tweaks for fluidity and story progression (nothing major)
+
+
+2018-06-02 - Updated and added links to Mega, Workupload and GoFile
+
+2018-06-01 - Demo 0.2 launched. Update includes:
+
+-    Sex scenes - they work again!
+
+-    Title changer - instead of being called "Master", you can change your title and have it be up to 
+    10 characters long
+
+-    More grammar and spelling corrections!
+
+-    Added / tweaked certain Total Corruption scenes
+
+-    HOLY SHIT I ADDED A FUCKING YARD TO THE SCHOOL!!!!!
+
+	In all seriousness, yes, there is a yard that works now. Be prepared to spend your lunchtimes out 	in the sun and the grass instead of hot asphalt.
+
+-    HOLY SHIT I ADDED TWO LOCKER ROOMS TO THE SCHOOL!!!!!!!!!
+	They link up to the yard - and guess what, Peter can't just waltz on into the girls' locker 			room without some kind of "key" to get in there.
+
+-    Common Events have been changed!
+	One of the more annoying things has been going into the Common Events and changing 99% of the 		dialogue in there. Annoying because it's time consuming more than it being actually difficult.
+
+-    Donna, Ms. Amos, Ms. Taylor and the rest of the school staff have some neat surprises waiting for a 	small boy to corrupt them - so get to it!
+
+
+Further updates to come, I'm currently trying to get my brain wrapped around this mapping thing so I can create the sewer system that links the entire city together without making it run at 2 FPS because of the lag. Cheers!?
+
+
+2018-05-07 - uploaded Demo. See Features for what has been implemented / changed.

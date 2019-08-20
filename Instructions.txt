@@ -1,0 +1,36 @@
+Thank you for trying out the latest edition of Xalenda's "Urban Demons" Mod!
+
+INSTRUCTIONS:
+
+
+To play game as intended:
+
+RUN Game.exe or Urban Demons.exe - both do the same thing.
+
+
+
+
+To fiddle around with the game:
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+= YOU MUST HAVE RPG MAKER VX ACE =
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+Double-click on Game.rvproj2, enjoy seeing the changes made first-hand.
+If you try to playtest and the screen fails to load properly:
+
+Find your RPG Maker VX Ace folder
+Look for the System folder
+Copy the RGSS300.dll file to another place - DO NOT DELETE THIS
+Unzip the RGSS301.rar file in the System folder of UDXM, place the file
+where your old file was.
+
+Everything should work properly; RGSS301 changes the aspect ratio for the
+game and RGSS300 keeps it at 800x600.
+
+
+
+
+For additional help, including bug reporting and various crashes, please go to https://f95zone.com/threads/urban-demons-v-0-8-2-mod-xalenda-demo.12399/
+
+I swear, if your game suddenly crashes, the computer turns off, and somehow gains sentience, I am NOT RESPONSIBLE.

@@ -1,0 +1,16 @@
+rosebud - $1,000
+fund - $10,000 (do it 8 times, I dare you.)
+Justin Bailey - Nude portraits
+ifearchange - Turn your music on
+moveinfast - Super fast movement
+allyourbasesarebelongtous - TP to memory room with all scenes unlocked (purity)
+somebodysetupusthebomb - TP to memory room with all scenes unlocked (corrupt)
+nwcigotbetter - Set all NPCs to 100 purity/corrupt (Heart Level 10)
+debug.unlock - toggles invisibility lock switch
+debug.rename - changes your name
+debug.allowtp - gets option in Q menu to TP back to main map
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+NOT EVERY CODE LISTED HERE WILL BE IN FINAL GAME
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

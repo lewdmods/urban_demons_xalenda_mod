@@ -1,0 +1,2 @@
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[962] > 0|Problem!|My mom is going out tonight, and I need to cum in your whore mouth again! Wanna come "babysit" me?|178|189>
+<choice:$game_switches[269] == true && $game_switches[271] == false && $game_variables[963] > 0|Need a babysitter!|Yo, cum-dump! Babysit me tonight; not like you have a choice!|179|189>
